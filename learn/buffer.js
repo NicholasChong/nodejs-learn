@@ -1,4 +1,4 @@
-const Buffer = require('buffer').Buffer
+const Buffer = require('learn/buffer').Buffer
 
 
 const buf = Buffer.from([0x68, 0x65, 0x6c, 0x6c, 0x6f])

@@ -1,4 +1,4 @@
-const Stream = require('stream')
+const Stream = require('learn/stream')
 const fs = require('fs')
 
 const readableStream = new Stream.Readable();
