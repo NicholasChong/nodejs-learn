@@ -116,3 +116,9 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+.DS_Store
+.idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/nodejs-learn.iml
+.idea/vcs.xml
+package-lock.json

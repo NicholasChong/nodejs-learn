@@ -1,4 +1,4 @@
-const path = require("learn/path")
+const path = require("path")
 
 
 //截取字符串中最后一截路径，第二个参数可以用于提出文件后缀
